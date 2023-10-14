@@ -1,0 +1,12 @@
+# Data
+*.csv
+*.png
+*.jpg
+*.txt
+
+# Python
+.ipynb_checkpoints
+*.pyc
+
+# IDE
+.idea
