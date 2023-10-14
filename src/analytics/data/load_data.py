@@ -7,7 +7,7 @@ import os
 import pandas as pd
 
 
-DATA_FOLDER = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', '..', "data"), strict=False)
+DATA_FOLDER = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'data'))
 DATA_FOLDER_2021 = DATA_FOLDER + '_2021'
 DATA_FOLDER_FINAL = DATA_FOLDER + '_final'
 
