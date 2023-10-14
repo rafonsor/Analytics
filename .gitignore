@@ -5,6 +5,7 @@
 *.txt
 
 # Python
+!requirements.txt
 .ipynb_checkpoints
 *.pyc
 
